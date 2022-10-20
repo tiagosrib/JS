@@ -1,2 +1,2 @@
 # JS
- Aulas de JS
+Práticas de programação
